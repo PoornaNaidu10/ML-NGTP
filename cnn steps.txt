@@ -1,0 +1,13 @@
+click on the main article
+key-in ohio on the search bar
+type news on the search bar
+enter new york on the search bar
+verify the title of the article contains airport
+click on the first article related to russia
+count how many articles are listed
+verify there is a picture of a car
+scroll to the section for entertainment
+select business tab
+I click main menu
+close the banner
+open the menu
